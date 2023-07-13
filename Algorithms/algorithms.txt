@@ -1,0 +1,7 @@
+Algorithms are independent of programming languages 
+
+Algorithms are evaluated for performance based on input size. For
+
+1. Time Complexity-
+2. Space complexity
+
